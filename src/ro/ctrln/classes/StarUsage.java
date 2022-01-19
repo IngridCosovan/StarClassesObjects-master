@@ -1,7 +1,4 @@
-package ro.ctrln;
-
-import ro.ctrln.classes.SmallPlanet;
-import ro.ctrln.classes.Star;
+package ro.ctrln.classes;
 
 import java.math.BigDecimal;
 

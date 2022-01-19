@@ -1,7 +1,5 @@
 package ro.ctrln.classes;
 
-import ro.ctrln.Planet;
-
 public class PlanetUsage {
     public static void main(String[] args) {
         Planet mercury = new Planet();
